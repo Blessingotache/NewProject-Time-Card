@@ -21,4 +21,4 @@ Contributors to this project include Rukayat Abeo Akinwande, Abbas Adamu Abbas a
 
 Your exploration and contributions are warmly welcomed!
 
- #SQL #SQLServer #DataAnalysis #DatabaseManagement #DataSecurity ##SQLProject #DataOrganization #SQLDatabase #DatabaseProject #StructuredQueryLanguage
+ #SQL #SQLServer #DataAnalysis #DatabaseManagement #DataSecurity #SQLProject #DataOrganization #SQLDatabase #DatabaseProject #StructuredQueryLanguage
